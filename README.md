@@ -29,18 +29,6 @@ The method of learning is more important than the content itself, as it sets the
     *   **Tweak the code** to figure out how things work (e.g., change parameters to see the effect).
 4.  **The "Worst-Case" Tutorial Rule:** If you are completely stuck and have exhausted all self-study efforts, you may watch **one tutorial** to understand the basic structure. After watching that single tutorial, you must then immediately build **a completely new project** on the same pattern, but independently, and introduce your own changes or "tweaks".
 
-### 3. Immediate Next Steps (Following the Initial Phase)
-
-Once you have mastered HTML and CSS layouts using the self-discovery methodology, the next action item is transitioning to core programming:
-
-*   **Learn JavaScript:** Dedicate approximately **two weeks** to JavaScript.
-*   **JavaScript Project Focus:** You need to build at least **five solid projects** that integrate HTML, CSS, and JavaScript. These projects must focus on key dynamic behaviors, specifically:
-    *   **DOM manipulation**.
-    *   **Fetching data from public APIs**.
-    *   **Displaying fetched data**.
-    *   **Triggering dynamic behavior** (e.g., creating confetti on a button click).
-*   **Replicate the Learning Method:** The self-learning methodology (using documentation, avoiding tutorials, building projects independently) must be repeated for JavaScript and all subsequent technologies.
-
 ### 4. Overall Commitment
 
 To successfully complete this slow, detailed roadmap and achieve a "solid programming understanding", you must dedicate a substantial amount of time daily:
