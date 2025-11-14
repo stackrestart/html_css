@@ -16,7 +16,6 @@ The roadmap dictates that the very first steps must focus on mastering the found
 ### 2. Core Learning Methodology: How to Start (The "How-To")
 
 The method of learning is more important than the content itself, as it sets the foundation for avoiding "tutorial hell" and gaining confidence.
-
 1.  **Prioritize Documentation:** The **documentation (like MDN docs)** is the "ultimate source of truth". You must prioritize reading the documentation to learn CSS properties, HTML tags, and other concepts. Learning from this source will directly help you during interviews, as questions often come from the same source material.
 2.  **Use AI for Structure, Not Videos:** Utilize tools like ChatGPT, Perplexity, or Claude to define your learning path.
     *   Tell the AI you want to learn HTML/CSS in three days.
@@ -34,4 +33,4 @@ The method of learning is more important than the content itself, as it sets the
 To successfully complete this slow, detailed roadmap and achieve a "solid programming understanding", you must dedicate a substantial amount of time daily:
 
 *   You must dedicate a minimum of **4 to 8 hours daily** to learning and building.
-*   The overall full-stack journey to produce at least **four full-stack projects** and 20 to 30 smaller projects is estimated to take around **six months**
+*   The overall full-stack journey to produce at least **four full-stack projects** and 20 to 30 smaller projects is estimated to take around **six months** 
